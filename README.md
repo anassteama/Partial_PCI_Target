@@ -1,5 +1,5 @@
 # Partial_PCI_Target
-A Verilog implementation for partial PCI target which supports following features
+A Verilog implementation for partial PCI target which supports the following features
 * Memory read.
 * Memory write.
 * Memory read line.
