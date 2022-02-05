@@ -6,7 +6,7 @@ A Verilog implementation for partial PCI target which supports the following fea
 * Memory read multiple.
 * Parity generation.
 * Parity error generation.
-* 32 bit and 64 bits read and write transacation.
+* 32 bit and 64 bits read and write transacations.
 * Target has ability to terminate the transacation.
 
 HDL directory has the Verilog source files.
